@@ -1,5 +1,6 @@
 import '../style/CourseCards.css'
 
+
 const CourseCards = () => {
   return (
     <div className='courseCards'>

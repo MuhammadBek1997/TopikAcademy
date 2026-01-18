@@ -1,0 +1,26 @@
+.WhyOurAcademy{
+    margin-left: 9pc;
+}
+.WhyOurAcademy h2{
+    width: 602px;
+    height: 44px;
+    font-size: 36px;
+    margin-left: 20pc;
+}
+
+.sharoit-cards-top{
+    display: flex;
+    gap: 3pc;
+}
+.sharoit-cards-top div{
+    width: 400px;
+    height: 300px;
+}
+.sharoit-cards-bottom{
+    display: flex;
+    gap: 3pc;
+}
+.sharoit-cards-bottom div{
+    width: 400px;
+    height: 300px;
+}

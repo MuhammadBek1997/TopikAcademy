@@ -1,5 +1,6 @@
 import './App.css'
 import CourseCards from './pages/CourseCards'
+import WhyOurAcademy from './pages/WhyOurAcademy'
 
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <>
       
       <CourseCards/>
+      <WhyOurAcademy/>
       
     </>
   )

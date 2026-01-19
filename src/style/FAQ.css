@@ -1,0 +1,48 @@
+.title {
+  text-align: center;
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 40px;
+}
+.marquee {
+  overflow: hidden;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.marquee-track {
+  display: flex;
+  gap: 20px;
+  animation: scroll 20s linear infinite;
+}
+.marquee-track.reverse {
+  animation-direction: reverse;
+}
+.marquee-track img {
+  width: 220px;
+  border-radius: 12px;
+}
+.btn-wrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+.btn {
+  background: #5cc9c3;
+  color: white;
+  border: none;
+  padding: 14px 40px;
+  font-size: 16px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+.btn:hover {
+  opacity: 0.9;
+}
+@keyframes scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}

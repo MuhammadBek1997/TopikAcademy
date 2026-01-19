@@ -3,7 +3,8 @@ import '../style/WhyOurAcademy.css'
 
 const WhyOurAcademy = () => {
   return (
-    <div>WhyOurAcademy</div>
+    <>
+    </>
   )
 }
 

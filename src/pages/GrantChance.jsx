@@ -2,7 +2,7 @@ import '../style/GrantChance.css'
 
 const GrantChance = () => {
   return (
-    <div>GrantChance</div>
+    <div></div>
   )
 }
 

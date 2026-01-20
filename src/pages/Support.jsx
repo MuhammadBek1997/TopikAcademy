@@ -2,7 +2,7 @@ import '../style/Support.css'
 
 const Support = () => {
   return (
-    <div>Support</div>
+    <div></div>
   )
 }
 

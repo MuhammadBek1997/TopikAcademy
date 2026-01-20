@@ -2,7 +2,7 @@ import '../style/OurHelp.css'
 
 const OurHelp = () => {
   return (
-    <div>OurHelp</div>
+    <div></div>
   )
 }
 

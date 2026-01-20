@@ -1,0 +1,93 @@
+.faq-questions h2 {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 36px;
+}
+
+.questions {
+    padding-top: 40px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 330px;
+}
+
+.questions h3 {
+    width: 833px;
+    height: 40px;
+    padding-top: 14px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background: #D7F8DBA6;
+
+}
+
+.faq-questions button {
+    position: absolute;
+    right: 400px;
+    border-radius: 50px;
+    border: none;
+    color: white;
+    background: #5FACA9;
+    font-size: 20px;
+}
+
+
+
+
+
+
+.faq-contact {
+    width: 1197px;
+    height: 298px;
+    margin-left: 175px;
+    display: flex;
+    margin-top: 160px;
+    background: url(../../public/images/Rectangle25.png)  no-repeat center;
+
+}
+
+.faq-help-text h2 {
+    width: 241px;
+    margin-left: 150px;
+    font-size: 40px;
+}
+
+.faq-help-text p {
+    width: 235px;
+    font-size: 16px;
+    margin-left: 150px;
+}
+
+.faq-help-inputs {
+    margin-left: 300px;
+    padding-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.faq-help-inputs input {
+    width: 351px;
+    height: 55px;
+    border: none;
+    background: #ABDDB1CC;
+    border-radius: 26px;
+    color: white;
+}
+
+.faq-help-inputs input::placeholder {
+    color: white;
+    padding-left: 20px;
+}
+.faq-help-inputs button {
+    width: 351px;
+    height: 55px;
+    border-radius: 26px;  
+    border: none;
+    background: #5FACA9; 
+    color: white;
+    font-size: 18px;
+}

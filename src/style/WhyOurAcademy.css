@@ -1,0 +1,53 @@
+.whyTopicAcademy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: rgb(56, 54, 54);
+}
+
+.about{
+    display: grid;
+    border: 1px solid #000;
+    width: 330px;
+    height: 250px;
+    box-shadow: 0 4px 10px rgb(141, 128, 128);
+    border: none;
+    border-radius: 5px;
+}
+
+.TopicAcademyAbout{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: repeat(3, auto);
+    gap: 70px;
+    margin-top: 110px;
+    text-align: center;
+}
+
+.about p{
+    display: flex;
+    border: 1px solid #000;
+    width: 270px;
+    height: 70px;
+    margin-bottom: 70px;
+    border: none;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 13px;
+    margin-top: 20px;
+}
+.about h4{
+    display: flex;
+    font-size: 21px;
+    color: rgb(56, 54, 54);
+    margin-left: 23px;
+}
+
+.about img{
+    margin-top: -50px;
+    margin-left: 30px;
+    border: none;
+}
